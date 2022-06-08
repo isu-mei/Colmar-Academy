@@ -1,0 +1,17 @@
+.menu {
+    display: inline-block;
+}
+
+p {
+    height: 32px;
+}
+
+a:link {
+    color:grey;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.banner {
+    display:inline-block;
+}
